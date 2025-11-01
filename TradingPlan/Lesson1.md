@@ -188,7 +188,7 @@ To find the seasonaility chart do this
 
 _Gold is under metal_
 
-> Look up Larry Williams course
+
 
 COT & Commercial Trend
 Look at HTF and analyze what are the SM is doing bullish and bearish, and match that, don't go against the grain. If the daily/weekly is bullish, try to trade towards that trend. HTF
@@ -307,6 +307,8 @@ Key market moving indicators - things that moves the market
 
 **Tip:**  
 > Watch **ECB weeks (Thursdays)** and **German PMI releases (usually last week of month)** — they cause the largest EUR/USD and DAX volatility moves.
+
+> Look up Larry Williams course
 
 Plan for news impact - encouraged to stay away from trading at this time
 resoures 
