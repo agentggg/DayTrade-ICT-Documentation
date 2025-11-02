@@ -186,23 +186,22 @@ Look for Seasonal Tendecnies:
 To find the seasonaility chart do this
 `Trading View App > Markets > Search for assest (under the search tree, not the popups. Find the specific one) > Seasonals`
 
-_Gold is under metal_
+> _Gold is under the metal category_
 
+### COT & Commercial Trend
+Look at HTF and analyze what smart money is doing (bullish or bearish), and match that, don't go against the grain. If the daily/weekly is bullish, try to trade towards that trend.
 
+### Trading the News
+- **Volatiltiy Injections:** Don't trade the news.
+The internet is full of robots that will trigger according to news reaction, your job is to stay away. 
+  - _Its gambling, and not calculative,
+as you will never know what will happen_
 
-COT & Commercial Trend
-Look at HTF and analyze what are the SM is doing bullish and bearish, and match that, don't go against the grain. If the daily/weekly is bullish, try to trade towards that trend. HTF
+- Look for the releae of the news and then wait for after the news to look for signal to enter. 
+  - You can also trade prior to the news, or during the news or post news. 
+    - If you have an idea where things are going, then you trade prior to the news
 
-Trading the News
-Volatiltiy Injections, don't trade the news
-internet is fill of robot that will trigger according to news reaction, your job is to stay away
-its gambling
-as you will never know what will happen
-look for the releae of the news and then wait for after news to look for signal to enter. 
-You can also trade prior to the news, or during the news or post news. If you have an idea where things are going, then you trade prior to the news
-
-Key market moving indicators - things that moves the market
-# 🇬🇧 Major UK Market-Moving Indicators
+### 🇬🇧 Major UK Market-Moving Indicators
 
 | Category | Indicator | Frequency | Why It Moves Markets | Typical Market Impact |
 |:--|:--|:--|:--|:--|
@@ -235,7 +234,7 @@ Key market moving indicators - things that moves the market
 > Watch **BoE + CPI weeks** — they produce the biggest GBP volatility and FTSE 100 swings.
 
 
-# 🇺🇸 Major U.S. Market-Moving Indicators
+### 🇺🇸 Major U.S. Market-Moving Indicators
 
 | Category | Indicator | Frequency | Why It Moves Markets | Typical Market Impact |
 |:--|:--|:--|:--|:--|
@@ -273,7 +272,7 @@ Key market moving indicators - things that moves the market
 > Watch **FOMC weeks**, **NFP Fridays**, and **CPI releases** — they consistently produce the strongest USD volatility across Forex, commodities, and indices.
 
 
-# 🇩🇪🇪🇺 Major Eurozone & German Market-Moving Indicators
+### 🇩🇪🇪🇺 Major Eurozone & German Market-Moving Indicators
 
 | Category | Indicator | Frequency | Why It Moves Markets | Typical Market Impact |
 |:--|:--|:--|:--|:--|
@@ -308,15 +307,30 @@ Key market moving indicators - things that moves the market
 **Tip:**  
 > Watch **ECB weeks (Thursdays)** and **German PMI releases (usually last week of month)** — they cause the largest EUR/USD and DAX volatility moves.
 
+
+### Resources
+- News Resoures 
+  - [Baby Pips](babypips.com)
+  - [Forex Factory](forexfactory.com)
+    - _google "economy calandar"_
+
+> Chris Lori - Inside the Banks Webinar
+- > [Chris Website](chrislori.com)
 > Look up Larry Williams course
 
-Plan for news impact - encouraged to stay away from trading at this time
-resoures 
-babypips.com
-forexfactory.com
-google "economy calandar"
+# Module 4
 
-chris lori's - inside the banks webinar.
-chrislori.com
+## Technical Analysis
 
-Module 4
+### Key support and resistance levels
+- Identify key H/L price levels from the hour chart up to monthly, nothing less than 60 minutes
+  - Determine monthly, weekly, previous days, sessions high and ligh
+avoid the herd mentalitity. 
+    - If everyone is doing it, then its prob not the best idea, because everyone is already doing it.
+        - Example: **Intraday Judas Swing**, and then finding an entry in the opposite directions.
+            - The **Intraday Judas Swing** trade is a liqudidty grab. It is at the start of the market open and its usually engineered to grab liquadity. it usually does the following
+            - **Intraday Judas Swing** hunts liquidity resting above/below the Asian range or previous Session H/L.
+            - The **Intraday Judas Swing** also defines the day’s H/L early (the daily dealing range).
+            - Institutions take positions opposite of The **Intraday Judas Swing** once liquidity is taken.
+            - After that, price delivers in the opposite direction, but only as far as the next liquidity draw
+
