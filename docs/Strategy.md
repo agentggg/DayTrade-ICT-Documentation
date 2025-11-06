@@ -3,10 +3,13 @@
 ## Jayden Meyerink
 ### Rules and Principles
 #### Max risk per trade
-- [ ] Risk to reward in place
-- [ ] 10 trads before blowing account up
-    - [ ] $450, for 10 trades before taking a L
+- [ ] Set a Risk to Reward in place that is the crux of all your trading decisions
+  - Don't risk more than your allocated amount for each trade
+- [ ] It should take you 10 trades before blowing account up
+  - So if MLL is $2000, then it should be 2000 / 10 
+    - That should be the risk amount per trade
 - [ ] Max trade per session, then walk away
+  - You should not take more than X amount of trades per day
 - [ ] Only trade your setup and nothing else
 
 ### IFVG Strategy
