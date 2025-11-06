@@ -13,10 +13,10 @@
 - [ ] Only trade your setup and nothing else
 
 ### IFVG Strategy
-- Catches reversal
-- [ ] Sweep liqudity
-- [ ] Look for an IFVG to your FVG
-    - [ ] Stop at the swing high/swing low and then put your stop loss at next liquidity
+#### Catch reversal
+  - [ ] Sweep any major liqudity
+  - [ ] Look for an IFVG to the FVG that swept liqudity
+    - [ ] Stop loss gors at the swing high/swing low that swept liqudity and then put your stop loss at next liquidity level
 - [ ] 1m or 5m timeframe
 ### Entry Signal
 - [ ] Clean invesion off of the liquidity sweep, strong displacement through IFVG 
