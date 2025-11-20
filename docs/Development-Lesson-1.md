@@ -28,10 +28,11 @@ title: Development Lesson 1
 - Keep the focus on the plan, you plan
 
 ### The General Overview
-- ### Risk control
+- Risk control
     - Controling the risk associated for each streak
     - Equity management
     - Understnaind fundementals
+
 - ### Inter-market analysis on how all the charts inter-communicate
     - When one chart goes up that affects another chart
     - Technical analysis and a comprehensive tools to use for specific time and reason
