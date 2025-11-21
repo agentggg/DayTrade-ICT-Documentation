@@ -3,6 +3,8 @@ layout: default
 title: DayTrade ICT
 ---
 
+[Official Website](https://agentggg.github.io/DayTrade-ICT/)
+
 # DayTrade ICT — Course
 
 Welcome! Choose a module:
@@ -13,7 +15,7 @@ Welcome! Choose a module:
 
 ---
 
-# Development Lesson 1
+# Development Lesson I
 
 ## Table of Contents
 
@@ -58,3 +60,24 @@ Welcome! Choose a module:
 ### Module 4 — Technical Analysis
 
 - [Key support and resistance levels](Development-Lesson-1.md#key-support-and-resistance-levels)
+
+---
+
+# Development Lesson II
+
+### Module 5 — Market Profile
+
+- [Market Profile](Development-Lesson-1.md#market-profile)
+- [Consolidation Range Profile](Development-Lesson-1.md#consolidation-range-profile)
+- [Turtle Soup Entry](Development-Lesson-1.md#turtle-soup-entry)
+- [Market Structure](Development-Lesson-1.md#market-structure)
+  - [Bullish Market Structure](Development-Lesson-1.md#bullish-market-structure)
+  - [Bearish Market Structure](Development-Lesson-1.md#bearish-market-structure)
+- [Premium and Discount](Development-Lesson-1.md#premium-and-discount)
+- [Market Structure Shift](Development-Lesson-1.md#market-structure-shift)
+
+---
+
+# Development Lesson III
+
+### Module 6 - ICT Approach

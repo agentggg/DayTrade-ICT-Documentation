@@ -58,6 +58,18 @@
     - Candle 3 SH
     - Candle 4 SH     
 
+### Manipulation vs Displacement
+- Displacement: _Strong, energetic price movement that shows genuine institutional participation (smart money). Smart money is actively moving the market in that direction_
+    - Aggressive push past key levels (highs/lows)
+    - Strong momemtum with follow through candles, **sustained movement**
+    - Large Candles
+    - Closes well beyond the broken level
+    - Followed by retracement and then continuation
+- Manipulation: _Weak, but rapid price movement designed to trap retail traders and gather liquidity. False moves to take out stops and breakout traders before the real move_
+    - Barely breaks previous highs/lows
+    - Weak follow-throughs
+    - Quick reversal
+    - Often reverse quickly in the opposite direction
 ## Premium and Discount
 [Recommended Video](https://www.youtube.com/watch?v=IynpGS5tUDE)
 1. You need a swing high and a swing low
