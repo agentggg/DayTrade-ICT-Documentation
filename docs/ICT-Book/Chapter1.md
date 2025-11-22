@@ -1,4 +1,4 @@
-# Introduction
+# Chapter 1 - Introduction
 ## What is ICT Trading
 - Inner Circle Trading Strategy was Developed by *Micheal J. Huddleston*, commonly known as the Inner Circle Trader
 - His strategy is based off of the relationship between **time** and **price** 
