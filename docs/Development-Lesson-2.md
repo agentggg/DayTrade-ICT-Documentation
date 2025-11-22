@@ -64,12 +64,13 @@
     - Strong momemtum with follow through candles, **sustained movement**
     - Large Candles
     - Closes well beyond the broken level
-    - Followed by retracement and then continuation
+    - Followed by retracement and then **continuation**
 - Manipulation: _Weak, but rapid price movement designed to trap retail traders and gather liquidity. False moves to take out stops and breakout traders before the real move_
     - Barely breaks previous highs/lows
     - Weak follow-throughs
-    - Quick reversal
+    - Quick **reversal**
     - Often reverse quickly in the opposite direction
+    - Confirmed with a FVG
 ## Premium and Discount
 [Recommended Video](https://www.youtube.com/watch?v=IynpGS5tUDE)
 1. You need a swing high and a swing low
