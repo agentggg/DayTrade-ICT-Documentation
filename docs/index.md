@@ -14,7 +14,7 @@ title: DayTrade ICT
 
 ## Practical ICT Strategies Book — Ayub Rana 
 - [Chapter 1 - Introduction](ICT-Book/Chapter1.md)
-
+- [Chapter 2 - PD-Array](ICT-Book/Chapter2.md)
 ---
 
 ## ICT — DayTrade Development Course
