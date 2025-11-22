@@ -45,3 +45,9 @@
     - [ ] Some people wait for retest, some don't. Just manage your emotions
 
 
+## Hints/Tips:
+
+### Timeframe:
+Day Trading: Focus on 1H down to 5M
+Swing Trading: Daily down to 1H
+Position Trading: Weekly/Monthly down to Daily
