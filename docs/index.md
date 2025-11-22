@@ -24,7 +24,7 @@ title: DayTrade ICT
 
 - ## Development Lesson I
 
-    #### Module 1 — ICT Trading Plan Development
+    - #### Module 1 — ICT Trading Plan Development
 
     - [Why the need for a trading plan](Development-Lesson-1.md#why-the-need-for-a-trading-plan)
     - [The Least Important Process](Development-Lesson-1.md#the-least-important-process)
@@ -33,7 +33,7 @@ title: DayTrade ICT
 
     ---
 
-    #### Module 2 — Risk, PIPs & Case Studies
+    - #### Module 2 — Risk, PIPs & Case Studies
 
     - [The ICT Trading Plan](Development-Lesson-1.md#the-ict-trading-plan)
     - [Pack small Play Big](Development-Lesson-1.md#pack-small-play-big)
@@ -49,7 +49,7 @@ title: DayTrade ICT
 
     ---
 
-    #### Module 3 — Macro & Fundamentals
+    - #### Module 3 — Macro & Fundamentals
 
     - [Understanding the interest rate market](Development-Lesson-1.md#understanding-the-interest-rate-market)
     - [Example (Seasonal Tendencies)](Development-Lesson-1.md#example)
@@ -62,7 +62,7 @@ title: DayTrade ICT
 
     ---
 
-    #### Module 4 — Technical Analysis
+    - #### Module 4 — Technical Analysis
 
     - [Key support and resistance levels](Development-Lesson-1.md#key-support-and-resistance-levels)
 
@@ -70,7 +70,7 @@ title: DayTrade ICT
 
 - ## Development Lesson II
 
-    #### Module 5 — Market Profile
+    - #### Module 5 — Market Profile
 
     - [Market Profile](Development-Lesson-1.md#market-profile)
     - [Consolidation Range Profile](Development-Lesson-1.md#consolidation-range-profile)
@@ -85,4 +85,4 @@ title: DayTrade ICT
 
 - ## Development Lesson III
 
-    #### Module 6 - ICT Approach
+    - #### Module 6 - ICT Approach
