@@ -4,7 +4,7 @@
 - His strategy is based off of the relationship between **time** and **price** 
 
 ### Interbank Price Delivery Algorithm *(IPA)*
-- Micheal believes that price is controlled and delivered by an <u>**algorithm**</u>
+- Micheal believes that price is controlled and delivered by an **<u>algorithm</u>**
 - The algo is designed to target liquidity, and balancing price that is imbalance. 
     - *hence why ICT is teachings is base off of liqudity*
 - Modern Markets are ran by multiple algorithms, not just one master algo. However, all the big players leverages algo to enter and exit the market. There is no need for human-interaction and emotional involvement.
@@ -55,7 +55,7 @@
                 - NYSE open (reversal or continuation)
             - 10a
                 - Manipulation + setup confirmation
-        3. Why high/lows are swept before major move, known as the **<u>*Judas Swing*</u>**
+        3. Why high/lows are swept before major move, known as the **<u>Judas Swing</u>**
             - Those orders at the high/low are easily access for instant liquidity
                 - This is why you always see: *Sweep → Displacement → FVG → Return → Continuation*
         4. Buy and sell orders did not match properly:
