@@ -69,7 +69,7 @@ title: Development Lesson 1
 | 75 | Expert Trader |
 
 **PIP** = _*Percantage in Points* or *Price intretst Points*_
-- PIP's are measures of unit in a market
+- PIP's are measures of unit in a marketi
 
 | Lot Size | PIP | Dollar Amount | Formual
 | ----------- | ----------- | ----------- | ----------- | 

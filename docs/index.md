@@ -3,98 +3,95 @@ layout: default
 title: DayTrade ICT
 ---
 
+# Resources
 [Official Website](https://agentggg.github.io/DayTrade-ICT/)
-
 [Book author blog](https://innercircletrader.net/)
-
+[ICT Development Plan Series](https://youtube.com/playlist?list=PLVgHx4Z63paagxlDQdCS3S6-iVKGGGFWz&si=lSn6b43iv9Qow3Ro)
 
 # **Welcome! Choose a module**
 
 ### Table of Contents
 
 ## ICT Playbook
-- [Strategy Overview](Strategy.md)
+- [Strategy Overview](strategies.md)
 
 ## Practical ICT Strategies Book — Ayub Rana 
-- [Chapter 1 - Introduction](ICT-Book/Chapter1.md)
-    - [What is ICT](ICT-Book/Chapter1.md#what-is-ict-trading)
-    - [Algorithm](ICT-Book/Chapter1.md#interbank-price-delivery-algorithm-ipa)
-- [Chapter 2 - PD-Array](ICT-Book/Chapter2.md)
-    - [What is Premium and Discount](ICT-Book/Chapter2.md#what-is-pd-array)
-    - [Order Blocks](ICT-Book/Chapter2.md#order-blocks)
-    - [Breaker Blocks](ICT-Book/Chapter2.md#breaker-blocks)
-    - [Inverse Fair Value Gap](ICT-Book/Chapter2.md#inverse-fvg)
-    - [Implied Fair Value Gap](ICT-Book/Chapter2.md#implied-fvg)
-    - [Balanced Price Range-BPR](ICT-Book/Chapter2.md#balanced-price-range-bpr)
-    - [Rejection Block](ICT-Book/Chapter2.md#rejection-block)
-    - [Vaccume Gap](ICT-Book/Chapter2.md#vaccume-gap)
-    - [Mitigation Block](ICT-Book/Chapter2.md#mitigation-block)
--[Chapter 3 - Liquidity Zones](ICT-Book/Chapter3.md)
+- [Chapter 1 - Introduction](ICT-Book/chapters/Chapter1.md)
+    - [What is ICT](ICT-Book/chapters/Chapter1.md#what-is-ict-trading)
+    - [Algorithm](ICT-Book/chapters/Chapter1.md#interbank-price-delivery-algorithm-ipa)
+- [Chapter 2 - PD-Array](ICT-Book/chapters/Chapter2.md)
+    - [What is Premium and Discount](ICT-Book/chapters/Chapter2.md#what-is-pd-array)
+    - [Order Blocks](ICT-Book/chapters/Chapter2.md#order-blocks)
+    - [Breaker Blocks](ICT-Book/chapters/Chapter2.md#breaker-blocks)
+    - [Inverse Fair Value Gap](ICT-Book/chapters/Chapter2.md#inverse-fvg)
+    - [Implied Fair Value Gap](ICT-Book/chapters/Chapter2.md#implied-fvg)
+    - [Balanced Price Range-BPR](ICT-Book/chapters/Chapter2.md#balanced-price-range-bpr)
+    - [Rejection Block](ICT-Book/chapters/Chapter2.md#rejection-block)
+    - [Vaccume Gap](ICT-Book/chapters/Chapter2.md#vaccume-gap)
+    - [Mitigation Block](ICT-Book/chapters/Chapter2.md#mitigation-block)
+-[Chapter 3 - Liquidity Zones](ICT-Book/chapters/Chapter3.md)
 ---
 
 ## ICT — DayTrade Development Course
-
-- [Module 1 — Development Lesson 1](Development-Lesson-1.md)
-- [Module 2 — Development Lesson 2](Development-Lesson-2.md)
+- [Module 1 — Development Lesson 1](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md)
+- [Module 2 — Development Lesson 2](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-2.md)
 
 - ## Development Lesson I
-
     - #### Module 1 — ICT Trading Plan Development
 
-        - [Why the need for a trading plan](Development-Lesson-1.md#why-the-need-for-a-trading-plan)
-        - [The Least Important Process](Development-Lesson-1.md#the-least-important-process)
-        - [What is truly needed](Development-Lesson-1.md#what-is-truly-needed)
-        - [The General Overview](Development-Lesson-1.md#the-general-overview)
+        - [Why the need for a trading plan](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#why-the-need-for-a-trading-plan)
+        - [The Least Important Process](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#the-least-important-process)
+        - [What is truly needed](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#what-is-truly-needed)
+        - [The General Overview](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#the-general-overview)
 
     ---
 
     - #### Module 2 — Risk, PIPs & Case Studies
 
-        - [The ICT Trading Plan](Development-Lesson-1.md#the-ict-trading-plan)
-        - [Pack small Play Big](Development-Lesson-1.md#pack-small-play-big)
-        - [Don't take the bait](Development-Lesson-1.md#dont-take-the-bait)
-        - [25 PIP Case Study](Development-Lesson-1.md#25-pip-case-study)
-        - [50 PIP Case Study](Development-Lesson-1.md#50-pip-case-study)
-        - [75 PIP Case Study](Development-Lesson-1.md#75-pip-case-study)
-        - [20 percent risk](Development-Lesson-1.md#20-percent-risk)
-        - [20 percent risk and 2 position — 1st position hits the S/L](Development-Lesson-1.md#1st-postion-hits-the-sl)
-        - [20 percent risk and 2 position — 2nd position hits the T/P](Development-Lesson-1.md#2nd-postion-hits-the-tp)
-        - [Modular Thinking](Development-Lesson-1.md#modular-thinking)
-        - [Keep Something — Pay yourself](Development-Lesson-1.md#keep-something---pay-yourself)
+        - [The ICT Trading Plan](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#the-ict-trading-plan)
+        - [Pack small Play Big](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#pack-small-play-big)
+        - [Don't take the bait](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#dont-take-the-bait)
+        - [25 PIP Case Study](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#25-pip-case-study)
+        - [50 PIP Case Study](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#50-pip-case-study)
+        - [75 PIP Case Study](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#75-pip-case-study)
+        - [20 percent risk](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#20-percent-risk)
+        - [20 percent risk and 2 position — 1st position hits the S/L](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#1st-postion-hits-the-sl)
+        - [20 percent risk and 2 position — 2nd position hits the T/P](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#2nd-postion-hits-the-tp)
+        - [Modular Thinking](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#modular-thinking)
+        - [Keep Something — Pay yourself](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#keep-something---pay-yourself)
 
     ---
 
     - #### Module 3 — Macro & Fundamentals
 
-        - [Understanding the interest rate market](Development-Lesson-1.md#understanding-the-interest-rate-market)
-        - [Example (Seasonal Tendencies)](Development-Lesson-1.md#example)
-        - [COT & Commercial Trend](Development-Lesson-1.md#cot--commercial-trend)
-        - [Trading the News](Development-Lesson-1.md#trading-the-news)
-        - [Major UK Market-Moving Indicators](Development-Lesson-1.md#major-uk-market-moving-indicators)
-        - [Major U.S. Market-Moving Indicators](Development-Lesson-1.md#major-us-market-moving-indicators)
-        - [Major Eurozone & German Market-Moving Indicators](Development-Lesson-1.md#major-eurozone--german-market-moving-indicators)
-        - [Resources](Development-Lesson-1.md#resources)
+        - [Understanding the interest rate market](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#understanding-the-interest-rate-market)
+        - [Example (Seasonal Tendencies)](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#example)
+        - [COT & Commercial Trend](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#cot--commercial-trend)
+        - [Trading the News](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#trading-the-news)
+        - [Major UK Market-Moving Indicators](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#major-uk-market-moving-indicators)
+        - [Major U.S. Market-Moving Indicators](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#major-us-market-moving-indicators)
+        - [Major Eurozone & German Market-Moving Indicators](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#major-eurozone--german-market-moving-indicators)
+        - [Resources](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#resources)
 
     ---
 
     - #### Module 4 — Technical Analysis
 
-        - [Key support and resistance levels](Development-Lesson-1.md#key-support-and-resistance-levels)
+        - [Key support and resistance levels](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#key-support-and-resistance-levels)
 
     ---
 
 - ## Development Lesson II
-
     - #### Module 5 — Market Profile
 
-        - [Market Profile](Development-Lesson-1.md#market-profile)
-        - [Consolidation Range Profile](Development-Lesson-1.md#consolidation-range-profile)
-        - [Turtle Soup Entry](Development-Lesson-1.md#turtle-soup-entry)
-        - [Market Structure](Development-Lesson-1.md#market-structure)
-        - [Bullish Market Structure](Development-Lesson-1.md#bullish-market-structure)
-        - [Bearish Market Structure](Development-Lesson-1.md#bearish-market-structure)
-        - [Premium and Discount](Development-Lesson-1.md#premium-and-discount)
-        - [Market Structure Shift](Development-Lesson-1.md#market-structure-shift)
+        - [Market Profile](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#market-profile)
+        - [Consolidation Range Profile](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#consolidation-range-profile)
+        - [Turtle Soup Entry](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#turtle-soup-entry)
+        - [Market Structure](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#market-structure)
+        - [Bullish Market Structure](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#bullish-market-structure)
+        - [Bearish Market Structure](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#bearish-market-structure)
+        - [Premium and Discount](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#premium-and-discount)
+        - [Market Structure Shift](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#market-structure-shift)
 
     ---
 

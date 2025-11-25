@@ -12,7 +12,7 @@
 
 ## Turtle Soup Entry
 - When price has swept a sell-side or buy-side liquidity, below a previous low or high, then we look for the reversal
-![alt text](image.png)
+![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image.png)
 1. Asia Builds the Range and Liquidity Pool
     - This is the range that London and NY will use to sweep liquidity 
 2. Sweeps one side
@@ -34,21 +34,21 @@
 - Bullish Market Structure consist of swing highs and swing lows. 
     - Price goes from ERL to IRL
         - Swing high consist of LH > HH > LH
-            - ![alt text](image-1.png)
+            - ![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image-1.png)
         - Swing low consist of HL > LL > HL
-            - ![alt text](image-2.png)
-        - ![alt text](image-3.png)
+            - ![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image-2.png)
+        - ![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image-3.png)
     - Price must break the previous high in order to be a new swing high point
-        - ![alt text](image-4.png)
-        - ![alt text](image-5.png)
+        - ![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image-4.png)
+        - ![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image-5.png)
     - Swing lows and swing highs that are internal to a range (between Swings) is not a Market Structure
 - If the market is at an uptrend the new high must close past the previous swing high to be able to mark the new low and the new
 
 ### Bearish Market Structure
 - A market making lower lows, and lower highs trend
 - If the market is at a downtrend, the new low must break the previous low
-    - ![alt text](image-6.png)
-    - ![alt text](image-7.png)
+    - ![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image-6.png)
+    - ![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image-7.png)
 - External swing low and internal swing high
 
 - It's good to wait for both side to have 2 swings. That is a STRONG swing 
@@ -79,7 +79,7 @@
     - Anything above Equlibrium / Mean Threshold
     - Premium is anything above the Equlibrium
     - Discount is anything below Equlibrium
-        - ![alt text](image-8.png)
+        - ![alt text](/docs/ICT%20Trading%20Plan%20Development/images/image-8.png)
 3. This is mainly for buying/selling bias
     - If price is in premium, you want to sell
     - If price is in discount, you want to buy
