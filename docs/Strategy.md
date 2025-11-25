@@ -43,7 +43,40 @@
     - [ ] S/L on the candle low that caused the displacement
     - [ ] DISPLACEMENT IS A MUST
     - [ ] Some people wait for retest, some don't. Just manage your emotions
-
+### THE ICT BREAKER MODEL
+  - OB forms
+  - Displacement forms (with FVG)
+  - Retrace into the OB
+  - OB FAILS (price trades THROUGH it)
+  - Displacement in the opposite direction
+  - The FAILED OB becomes the Breaker Block
+  - Retrace to the Breaker → ENTRY
+### Implied Fair Value Gap
+  - HTF
+  - Wait for a liquidity grab
+  - MSS
+  - IFVG
+  - Once price taps back into IFVG, go for long
+### Rejection Block
+  *[Sample](https://youtube.com/shorts/BvezXyLmieg?si=8ULSy5BFi81ONn6i)*
+  *[Sample](https://youtube.com/shorts/l5OIy2n9BQ0?si=0zaIvA9bu1eafsdK)*
+  *[Sample](https://youtu.be/9NDGx9MYuXw?si=yqjltnk0YDlV6ySh)*
+	-	Market takes sell/buy-side liquidity
+	-	Forms a bullish/bearish rejection candle
+	-	MSS/BOS (A candle opposite of the RB candle)
+    - That candle must tap into the RB zone, and then push back the opposite direction
+    - The candle that taps into the rejection block does NOT have to be the very next candle.
+      - it MUST happen within a reasonable number of candles.
+	-	Stops below the rejection wick
+### Mitigation Block
+	-	Identify a prior OB
+	-	Price violates that OB or it fails
+	-	Price later returns to the body of that failed OB
+	-	That returned candle becomes the Mitigation Block
+	-	Enter the direction of the returned candle, the mitigation
+	-	Stop-loss at the lowest wick for that the wick 
+    - Price should contineu aggresive and should not return to that level
+	-	Target higher liquidity
 
 ## Hints/Tips:
 
@@ -51,3 +84,4 @@
 Day Trading: Focus on 1H down to 5M
 Swing Trading: Daily down to 1H
 Position Trading: Weekly/Monthly down to Daily
+

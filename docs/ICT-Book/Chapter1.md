@@ -66,13 +66,13 @@
                     3. At 18,002 → no sellers exist
                         - This leaves an inbalance/void, and price must fill in the gaps
                             - You can use the Volume Range Volume Profile for dynamic volume range, to see where there was a gap in the orders, esp with FVG's
-
         5. Price always returns to FVG because of why/how FVG's are formed
             - FVG's are formed because of inbalances
                 - FVG's are formed because orders did not match: 
                     - Not enough buy orders per sale orders, vice-versa
                         - Every buy order must match a sale, vice-versa. So if there is not an available sell at the buy order request, it must go to the next avail sell order.
                             - So if I buy at 1801 but there is no sale till 1810, then there will be a HUGE displacement becaues the next avail order is at 1810
+                            - Displacement is the middle candle of the FVG
                 - Liqudidty was skipped:
                     - No trades happened inside that price range
                     - Price jumped over because no resting orders were avail

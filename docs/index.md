@@ -5,6 +5,9 @@ title: DayTrade ICT
 
 [Official Website](https://agentggg.github.io/DayTrade-ICT/)
 
+[Book author blog](https://innercircletrader.net/)
+
+
 # **Welcome! Choose a module**
 
 ### Table of Contents
@@ -14,7 +17,12 @@ title: DayTrade ICT
 
 ## Practical ICT Strategies Book — Ayub Rana 
 - [Chapter 1 - Introduction](ICT-Book/Chapter1.md)
+    - [What is ICT](ICT-Book/Chapter1.md#what-is-ict-trading)
+    - [Algorithm](ICT-Book/Chapter1.md#interbank-price-delivery-algorithm-ipa)
 - [Chapter 2 - PD-Array](ICT-Book/Chapter2.md)
+    - [What is Premium and Discount](ICT-Book/Chapter2.md#what-is-pd-array)
+    - [Order Blocks](ICT-Book/Chapter2.md#order-blocks)
+    - [Breaker Blocks](ICT-Book/Chapter2.md#order-blocks)
 ---
 
 ## ICT — DayTrade Development Course

@@ -65,6 +65,7 @@
     - Large Candles
     - Closes well beyond the broken level
     - Followed by retracement and then **continuation**
+    - Displacement candle is one or more candle
 - Manipulation: _Weak, but rapid price movement designed to trap retail traders and gather liquidity. False moves to take out stops and breakout traders before the real move_
     - Barely breaks previous highs/lows
     - Weak follow-throughs
