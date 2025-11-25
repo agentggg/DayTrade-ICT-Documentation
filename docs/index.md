@@ -17,7 +17,7 @@ title: DayTrade ICT
 
 ### Practical ICT Strategies Book — Ayub Rana 
 - [Chapter 1 - Introduction](docs/ICT-Book/chapters/chapter1.md)
-    - [What is ICT](docs/ICT-Book/chapters/Chapter1.md#what-is-ict-trading)
+    - [What is ICT](/ICT-Book/chapter1/#what-is-ict-trading)
     - [Algorithm](docs/ICT-Book/chapters/Chapter1.md#interbank-price-delivery-algorithm-ipa)
 - [Chapter 2 - PD-Array](docs/ICT-Book/chapters/Chapter2.md)
     - [What is Premium and Discount](docs/ICT-Book/chapters/Chapter2.md#what-is-pd-array)

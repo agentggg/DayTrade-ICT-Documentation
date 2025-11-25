@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chapter 1
+permalink: /ICT-Book/chapter1/
 ---
 # Chapter 1 - Introduction
 ## What is ICT Trading
