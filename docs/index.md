@@ -23,6 +23,12 @@ title: DayTrade ICT
     - [What is Premium and Discount](ICT-Book/Chapter2.md#what-is-pd-array)
     - [Order Blocks](ICT-Book/Chapter2.md#order-blocks)
     - [Breaker Blocks](ICT-Book/Chapter2.md#order-blocks)
+    - [Inverse Fair Value Gap](ICT-Book/Chapter2.md#inverse-fvg)
+    - [Implied Fair Value Gap](ICT-Book/Chapter2.md#implied-fvg)
+    - [Balanced Price Range-BPR](ICT-Book/Chapter2.md#balanced-price-range-bpr)
+    - [Rejection Block](ICT-Book/Chapter2.md#rejection-block)
+    - [Vaccume Gap](ICT-Book/Chapter2.md#vaccume-gap)
+    - [Mitigation Block](ICT-Book/Chapter2.md#mitigation-block)
 ---
 
 ## ICT — DayTrade Development Course
