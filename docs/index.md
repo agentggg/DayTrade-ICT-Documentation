@@ -5,7 +5,7 @@ title: DayTrade ICT
 
 # Resources
 - [Official Website](https://agentggg.github.io/DayTrade-ICT/)
-- [Ayub Rana Book](/Ayub-Rana-Practical-ICT-Strategies.pdf)
+- [Ayub Rana Book](Ayub-Rana-Practical-ICT-Strategies.pdf)
 - [Ayub Rana Blog](https://innercircletrader.net/)
 - [ICT Development Plan Series](https://youtube.com/playlist?list=PLVgHx4Z63paagxlDQdCS3S6-iVKGGGFWz&si=lSn6b43iv9Qow3Ro)
 
