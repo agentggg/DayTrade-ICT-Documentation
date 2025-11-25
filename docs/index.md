@@ -29,6 +29,7 @@ title: DayTrade ICT
     - [Rejection Block](ICT-Book/Chapter2.md#rejection-block)
     - [Vaccume Gap](ICT-Book/Chapter2.md#vaccume-gap)
     - [Mitigation Block](ICT-Book/Chapter2.md#mitigation-block)
+
 ---
 
 ## ICT — DayTrade Development Course
