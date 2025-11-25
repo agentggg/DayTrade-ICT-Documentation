@@ -1,3 +1,8 @@
+---
+layout: default
+title: Development Lesson 3
+permalink: /ICT-Dev/lesson-3/
+---
 # Top Down ICT Approach
 
 ## 

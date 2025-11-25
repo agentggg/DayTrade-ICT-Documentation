@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 2 — PD Array
+permalink: /ICT-Book/chapter2/
+---
+
 # Chapter 2 - PD-Array
 PD-Array stands for *Premium Discount Arrangement*
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Development Lesson 1
+permalink: /ICT-Dev/lesson-1/
 ---
 # Development Lesson 1
 

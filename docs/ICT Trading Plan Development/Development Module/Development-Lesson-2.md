@@ -1,3 +1,8 @@
+---
+layout: default
+title: Development Lesson 2
+permalink: /ICT-Dev/lesson-2/
+---
 # Market Profile
 **Market Profile:** _Is a concept that classifies what type of trading enviroment the current market enviroment is currently trading within_
 
