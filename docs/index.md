@@ -4,18 +4,18 @@ title: DayTrade ICT
 ---
 
 # Resources
-[Official Website](https://agentggg.github.io/DayTrade-ICT/)
-[Book author blog](https://innercircletrader.net/)
-[ICT Development Plan Series](https://youtube.com/playlist?list=PLVgHx4Z63paagxlDQdCS3S6-iVKGGGFWz&si=lSn6b43iv9Qow3Ro)
+- [Official Website](https://agentggg.github.io/DayTrade-ICT/)
+- [Ayub Rana Book](/Ayub-Rana-Practical-ICT-Strategies.pdf)
+- [Ayub Rana Blog](https://innercircletrader.net/)
+- [ICT Development Plan Series](https://youtube.com/playlist?list=PLVgHx4Z63paagxlDQdCS3S6-iVKGGGFWz&si=lSn6b43iv9Qow3Ro)
 
-# **Welcome! Choose a module**
+---
+# **Table of Contents**
 
-### Table of Contents
-
-## ICT Playbook
+### ICT Playbook
 - [Strategy Overview](strategies.md)
 
-## Practical ICT Strategies Book — Ayub Rana 
+### Practical ICT Strategies Book — Ayub Rana 
 - [Chapter 1 - Introduction](ICT-Book/chapters/Chapter1.md)
     - [What is ICT](ICT-Book/chapters/Chapter1.md#what-is-ict-trading)
     - [Algorithm](ICT-Book/chapters/Chapter1.md#interbank-price-delivery-algorithm-ipa)
@@ -32,13 +32,12 @@ title: DayTrade ICT
 -[Chapter 3 - Liquidity Zones](ICT-Book/chapters/Chapter3.md)
 ---
 
-## ICT — DayTrade Development Course
+### ICT — DayTrade Development Course
 - [Module 1 — Development Lesson 1](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md)
 - [Module 2 — Development Lesson 2](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-2.md)
 
-- ## Development Lesson I
+- ### Development Lesson I
     - #### Module 1 — ICT Trading Plan Development
-
         - [Why the need for a trading plan](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#why-the-need-for-a-trading-plan)
         - [The Least Important Process](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#the-least-important-process)
         - [What is truly needed](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#what-is-truly-needed)
@@ -81,7 +80,7 @@ title: DayTrade ICT
 
     ---
 
-- ## Development Lesson II
+- ### Development Lesson II
     - #### Module 5 — Market Profile
 
         - [Market Profile](ICT%20Trading%20Plan%20Development/Development%20module/Development-Lesson-1.md#market-profile)
@@ -95,6 +94,5 @@ title: DayTrade ICT
 
     ---
 
-- ## Development Lesson III
-
+- ### Development Lesson III
     - #### Module 6 - ICT Approach
