@@ -12,7 +12,16 @@
   - You should not take more than X amount of trades per day
 - [ ] Only trade your setup and nothing else
 
-### IFVG Strategy
+### Rebalancing IFVG Strategy
+  - [ ] FVG must form after a liqudity sweep, or real displacement
+  - [ ] Break of a swing structure, Momentum shift
+  - [ ] The FVG MUST be violated
+  - [ ] The IFVG must close beyone the FVG close point
+    - If the FVG exists randomly in the middle of consolidation, ignore it.
+    - Should not happen directly after an FVG was formed, that is a false move, as FVG should lead to MSS
+    - MSS happens when price takes out a swing in the OPPOSITE direction
+    - Price breaks a bullish swing low
+  - [ ] Price must retrace back into the original FVG direction into the IFVG zone
 #### Catch reversal
   - [ ] Sweep any major liqudity
   - [ ] Look for an IFVG to the FVG that swept liqudity
@@ -77,7 +86,7 @@
 	-	[ ] Enter the direction of the returned candle, the mitigation
 	-	[ ] Stop-loss at the lowest wick for that the wick 
     - [ ] Price should contineu aggresive and should not return to that level
-	-	Target higher liquidity
+	-	[ ] Target higher liquidity
 
 ## Hints/Tips:
 
