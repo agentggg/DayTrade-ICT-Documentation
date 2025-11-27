@@ -83,7 +83,7 @@ permalink: /ICT-Book/chapter3/
             - ICT refers to resting order as orders that are already in the market and is tangable, not orders that hasnt't entered the market yet
             - The market only cares about resting orders, because these are guranteed and reachable, me as a retail trader who's playing it at a play-by-play does not matter to retail as they cannot predict it 
             - Smart money relies on resting order and stop orders: resting orders for accumulation and stop orders for big moves and for extra liquidity when needed. These both are liquidity
-### Buy/Sell Limit Order and Market Orders      
+### Buy and Sell Limit Order and Market Orders      
     - **Buy limit orders:** traders that waiting for price to go lower to enter the market, as it is currently at a premimum 
     - Sell limit orders: traders that waiting for price to go higher to enter the market, as it is currently at a discount
     - Market order: execute now, at the current price
@@ -97,7 +97,7 @@ permalink: /ICT-Book/chapter3/
                 - where inefficiencies exist
                     - 4000 contracts selling at 4020
                     - 1200 contracts buying at 3970
-### 📊 ICT Terminology Table
+### ICT Terminology Table
 
 | **Term**              | **Meaning (ICT Definition)**                                        |
 |-----------------------|----------------------------------------------------------------------|
@@ -109,7 +109,7 @@ permalink: /ICT-Book/chapter3/
 | **Rebalancing**       | Price returning to inefficiencies (FVG) to fill unfilled orders and restore fair value. |
 | **Stop Hunt**         | When price purposely runs retail stop-losses, turning them into *market orders* that Smart Money uses as liquidity. |
 | **Orderflow Shift**   | Algorithmic change in directional bias, usually confirmed by MSS (Market Structure Shift). |
-### 🎨 Enhanced ICT Definitions (With Icons)
+### Enhanced ICT Definitions
 
 #### 📘 **Orderbook**
 The *institutional* orderbook: total liquidity landscape including  

@@ -38,7 +38,16 @@ title: DayTrade ICT
     - [Mitigation Block](ICT-Book/chapter2/#mitigation-block)
 
 #### **Chapter 3 — Liquidity Zones**
-- [Read Chapter 3](ICT-Book/chapter3/)
+- [Read Chapter 3](ICT-Book/chapter3/#institutional-liquidity-zones)
+    - [Introduction](ICT-Book/chapter3/#what-are-liquidity-zones)
+        - [What are Liquidity Zones](ICT-Book/chapter3/#what-are-liquidity-zones)
+        - [What are Stop Orders](ICT-Book/chapter3/#what-are-stop-orders)
+        - [Sweeping Liquidity](ICT-Book/chapter3/#sweeping-liquidity)
+        - [Sweeps and FVG's](ICT-Book/chapter3/#sweeps-and-fvg's)
+        - [Resting Orders](ICT-Book/chapter3/#resting-orders)
+        - [Buy/Sell Limit Order and Market Orders](ICT-Book/chapter3/#buy-and-sell-limit-order-and-market-orders)
+        - [Terminology Table](ICT-Book/chapter3/#terminology-table)
+        - [Enhanced ICT Definitions](ICT-Book/chapter3/#enhanced-ict-definitions)
 
 ---
 
