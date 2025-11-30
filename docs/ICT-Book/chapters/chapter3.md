@@ -34,7 +34,7 @@ Names you’ll hear:
 - Run buy stops  
 - Buy to sell  
 - Buy stop pool  
-  - ![alt text](/docs/ICT-Book/images/image-18.png)
+  - ![alt text](../images/image-18.png)
 
 ### 🟥 **Sell Stops (Sell-Side Liquidity, SSL)**
 Placed *below swing lows*, typically by traders going long.
@@ -44,7 +44,7 @@ Names you’ll hear:
 - Run sell stops  
 - Sell to buy  
 - Sell stop pool  
-  - ![alt text](/docs/ICT-Book/image-1.png)
+  - ![alt text](../image-1.png)
 ### 🧠 Key Notes
 - Smart Money **does NOT take your money** when your stop-loss hits.  
 - When your stop is triggered, your broker must convert it into a **forced market order**.  
@@ -54,7 +54,7 @@ Names you’ll hear:
 ---
 ## Sweeping Liquidity
 Sweeps are **not** the actual move — they **set up** the move.
-  - ![alt text](/docs/ICT-Book/images/image-25.png)
+  - ![alt text](../images/image-25.png)
 ### Why sweeps occur:
 - They unlock forced market orders (extra liquidity)  
 - They allow institutions to accumulate positions at discount/premium  
@@ -248,31 +248,31 @@ This chapter is now fully structured, formatted, and ready for your ICT Book.
   - A **High Resistance Liquidity Run** occurs when the price struggles to sweep out liquidity and takes a long time to reach an old high or swing low. This happens because liquidity is defended by multiple resistance levels.
   - *Low Resistance Liquidity* are the multiple short term swing highs and lows forming between an old high and low 
     - *With HRLR, it will be difficult for a MSS to take place, because price would have to take out a collection of old highs and old lows before finally causing a MSS, so it is encouraged to avoid going opposite direciton of the market, and remain in the current trend of the market*
-      - ![alt text](/docs/ICT-Book/images/image-19.png)
+      - ![alt text](../images/image-19.png)
         -  *for price to reverse and trend down, it would have to sweep multiple liquidity and then take out the swing low. That is very uncommon, and not recommended to trade in this manner, opposite of the currect market structure, especailly if the HTF is not aligned*
     - *Low Liqudity Resistance Run - LRLR* Is the same exact concept, however, opposite of the HRLR (High Resistance Liquidity Run)
-      - ![alt text](/docs/ICT-Book/images/image-20.png)
+      - ![alt text](../images/image-20.png)
 ### Internal and External Range Liquidities
   #### ICT Dealing Range
     - Anything between an established swing high (*which has taken the liquidity of an old high), and an established swing low (which has taken the liquidity of an old low)
-      - ![alt text](/docs/ICT-Book/images/image-21.png)
+      - ![alt text](../images/image-21.png)
   #### Internal Range Liquidity
     - Price within the range of the established swings (ICT Dealing Range), are known as *internal range liquidity*, but only the **FVG** is marked as the ICT Internal Range Liqudity
   #### External Range Liquidity
     - The swing high and the swing low of the dealing range is known as the *External Range Liquidity*
       - The high is known as buy-side liquidity
       - The low is known as the sell-side liquidity
-        - ![alt text](/docs/ICT-Book/images/image-22.png)
+        - ![alt text](../images/image-22.png)
 ### Liquidity Pool
   - Retail traders usually buy/sell above/below old highs/lows. 
   - Retail traders would buy above an old high or put a stop loss there, smart money would leverage that. Don't think like a retail trader, think like smart money.
-    - ![alt text](/docs/ICT-Book/images/image-23.png)
+    - ![alt text](../images/image-23.png)
 ### Liquidity Void
   - When prices moves aggressively after a consilidation in a direction, with a LONG and strong FVG. Only smart money has the power to do that, 
     - *Liquidity Voids are inefficiencies that must eventually be repriced*
     - There was no liquidity available
     - Price will usually return to rebalnce
-      - ![alt text](/docs/ICT-Book/images/image-24.png)
+      - ![alt text](../images/image-24.png)
 ### Liquidity Run
   -  When price targets a liquidity sweep, and instead of reversing, price continues in the direction of the sweep, with momemtum
-    - ![alt text](/docs/ICT-Book/images/image-26.png)
+    - ![alt text](../images/image-26.png)

@@ -13,10 +13,10 @@ PD-Array stands for *Premium Discount Arrangement*
 ## Different type of PD-Arrays
 - ### Order Blocks
     - **Bullish Order Block:** occurs when a *bullish* candle body (not wick) engulfs a *bearish* candle before a displacement (FVG).
-    ![alt text](/docs/ICT-Book/images/image.png)
+    ![alt text](../images/image.png)
         - * displacement is the confirmation, but the entry point would be a retracel back to the order block. A single displacement candle can be retail FOMO. FVG is institution intentionally pushing price  *
     - **Bearish Order Block:** occurs when a *bearish* candle body (not wick) engulfs a *bullish* candle before a displacement (FVG).
-        - ![alt text](/docs/ICT-Book/images/image-1.png)
+        - ![alt text](../images/image-1.png)
         - *displacement is the confirmation, but the entry point would be a retracel back to the order block*
         - The order block process is predisposed with the sweep of liquidity. After institutions has swept liquidity, then the reversal is being staged. The start of the reversal is usually an OB, followed by a displacement (FVG). From there you can expect price to retrace back to the OB, as anywhere there is an FVG, a retracal is emminent as there is an inbalance and orders that needs to be filled. 
             - You can validate this with the volumes-range indicator
@@ -32,7 +32,7 @@ PD-Array stands for *Premium Discount Arrangement*
     - You enter at the direction the **BB** was created
 - ### Inverse FVG
     - Inverse FVG is when a displacement happens, and when the FVG fails to hold the price, and price revisits the FVG
-    - ![alt text](/docs/ICT-Book/images/image-3.png)
+    - ![alt text](../images/image-3.png)
 - ### Implied FVG
     - Happens when price moves so fast that it skipped levels, but did it all within one candle, it's an invisible area
         - *if you were to take that single displacement candle, and split it in half, you could see an FVG being formed*
@@ -49,23 +49,23 @@ PD-Array stands for *Premium Discount Arrangement*
         - Bullish IFVG zone = from open of displacement candle → to its 50% midpoint
         - Bullish IFVG zone = open → midpoint (in bearish direction)
     - Place the FIB at the wicks that overlap, and the 50% mark is the IFVG
-    - ![alt text](/docs/ICT-Book/images/image-2.png)
-    - ![alt text](/docs/ICT-Book/images/image-4.png)
-    - ![alt text](/docs/ICT-Book/images/image-5.png)
+    - ![alt text](../images/image-2.png)
+    - ![alt text](../images/image-4.png)
+    - ![alt text](../images/image-5.png)
 - ### Balanced Price Range-BPR
     - This is the same as inversion FVG.
     - IFVG is the method and Balanced Price Range is the result.
         - The price is balanced
         - This also happens when the opposite side of the FVG that is violated is the same wick, and body size, everything the same
-    - ![alt text](/docs/ICT-Book/images/image-7.png)
-    - ![alt text](/docs/ICT-Book/images/image-8.png)
+    - ![alt text](../images/image-7.png)
+    - ![alt text](../images/image-8.png)
 - ### Rejection Block
     - Rejection block is when price sweeps a liqudity and forms a long rejection wick.
     - The section from the previous liqudity and where the wick ends is the rejection block
         - *ONLY USED IN LIQ SWEEP OF HIGHS and LOWS*
     - Runs liquidity, fills their orders, and then price attempts to breakthrough the liquidity level, however, price gets rejected aggresively and then leaves a candle that represents the algo rejecting the price
-    - ![alt text](/docs/ICT-Book/images/image-9.png)
-    - ![alt text](/docs/ICT-Book/images/image-10.png)
+    - ![alt text](../images/image-9.png)
+    - ![alt text](../images/image-10.png)
 - ### Vaccume Gap
     - Vaccum Gap is when there is a huge visible gap between the close/open of one candle to another
     - It can be created because of a week, day or session opening. volatility event like FOMC, NFP or a geopolitical event like war.
@@ -75,8 +75,8 @@ PD-Array stands for *Premium Discount Arrangement*
         - A sudden news event hits (like NFP, CPI, FOMC)
         - Price instantly jumps to 17,120.
         - Nobody bought, sold, no trades executed, priced moved FAST, like a **VACCUME BLOCK**
-    - ![alt text](/docs/ICT-Book/images/image-11.png)
-    - ![alt text](/docs/ICT-Book/images/image-12.png)
+    - ![alt text](../images/image-11.png)
+    - ![alt text](../images/image-12.png)
 - ### Mitigation Block
     - A MSS that failed to make higher highs/lower lows and SM algos needs to return to that area to mitigate those lossess before continuing the original direction
         - Smart Money was caught on the wrong side
@@ -90,8 +90,8 @@ PD-Array stands for *Premium Discount Arrangement*
     - Difference between **Mitigration Block** and **Breaker Block**:
         - Breaker Block grabs liquidity on it's way down, and a reversal happens
         - Mitigration Block does not grab liquidity on it's way down, price simply violated the OB, no reversal happens after it returns, it just continues
-    - ![alt text](/docs/ICT-Book/images/image-13.png)
-    - ![alt text](/docs/ICT-Book/images/image-14.png)
-    - ![alt text](/docs/ICT-Book/images/image-15.png)
-    - ![alt text](/docs/ICT-Book/images/image-16.png)
-    - ![alt text](/docs/ICT-Book/images/image-17.png)
+    - ![alt text](../images/image-13.png)
+    - ![alt text](../images/image-14.png)
+    - ![alt text](../images/image-15.png)
+    - ![alt text](../images/image-16.png)
+    - ![alt text](../images/image-17.png)
