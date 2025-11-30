@@ -87,7 +87,18 @@
 	-	[ ] Stop-loss at the lowest wick for that the wick 
     - [ ] Price should contineu aggresive and should not return to that level
 	-	[ ] Target higher liquidity
-
+### Dealing Range
+  - [ ] Is there a Dealing Range
+  - [ ] Is there an FVG within the dealing range
+  - [ ] Did price retrace into the FVG zone forming an IFVG
+  - [ ] Enter
+    - [ ] Additionally, you can mark if price hit the Dealing Range high/low again, that is sign of a MSS
+### Liquidity Void
+  ## Option 1
+    - [ ] Price must return to rebalance the inefficiences/void, then once it rebalnace price, it returns back to it's original direction
+  ## Option 2
+    - [ ] Price moves fast because there is nothing to slow it down
+    - [ ] Enter into the direciton of the void, till price retraces 
 ## Hints/Tips:
 
 ### Timeframe:

@@ -54,7 +54,7 @@ Names you’ll hear:
 ---
 ## Sweeping Liquidity
 Sweeps are **not** the actual move — they **set up** the move.
-
+  - ![alt text](images/image-25.png)
 ### Why sweeps occur:
 - They unlock forced market orders (extra liquidity)  
 - They allow institutions to accumulate positions at discount/premium  
@@ -252,3 +252,27 @@ This chapter is now fully structured, formatted, and ready for your ICT Book.
         -  *for price to reverse and trend down, it would have to sweep multiple liquidity and then take out the swing low. That is very uncommon, and not recommended to trade in this manner, opposite of the currect market structure, especailly if the HTF is not aligned*
     - *Low Liqudity Resistance Run - LRLR* Is the same exact concept, however, opposite of the HRLR (High Resistance Liquidity Run)
       - ![alt text](images/image-20.png)
+### Internal and External Range Liquidities
+  #### ICT Dealing Range
+    - Anything between an established swing high (*which has taken the liquidity of an old high), and an established swing low (which has taken the liquidity of an old low)
+      - ![alt text](images/image-21.png)
+  #### Internal Range Liquidity
+    - Price within the range of the established swings (ICT Dealing Range), are known as *internal range liquidity*, but only the **FVG** is marked as the ICT Internal Range Liqudity
+  #### External Range Liquidity
+    - The swing high and the swing low of the dealing range is known as the *External Range Liquidity*
+      - The high is known as buy-side liquidity
+      - The low is known as the sell-side liquidity
+        - ![alt text](images/image-22.png)
+### Liquidity Pool
+  - Retail traders usually buy/sell above/below old highs/lows. 
+  - Retail traders would buy above an old high or put a stop loss there, smart money would leverage that. Don't think like a retail trader, think like smart money.
+    - ![alt text](images/image-23.png)
+### Liquidity Void
+  - When prices moves aggressively after a consilidation in a direction, with a LONG and strong FVG. Only smart money has the power to do that, 
+    - *Liquidity Voids are inefficiencies that must eventually be repriced*
+    - There was no liquidity available
+    - Price will usually return to rebalnce
+      - ![alt text](images/image-24.png)
+### Liquidity Run
+  -  When price targets a liquidity sweep, and instead of reversing, price continues in the direction of the sweep, with momemtum
+    - ![alt text](images/image-26.png)
