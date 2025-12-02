@@ -48,15 +48,14 @@ title: DayTrade ICT
         - [Buy/Sell Limit Order and Market Orders](ICT-Book/chapter3/#order-types-summary)
         - [Terminology Table](ICT-Book/chapter3/#ict-terminology-table)
         - [Enhanced ICT Definitions](ICT-Book/chapter3/#enhanced-ict-definitions)
-    - [Read Chapter 3](ICT-Book/chapter3/#ict-liquidity-zones)
-        - [High and Low Resistance Liquidities](ICT-Book/chapter3/#high-and-low-resistance-liquidities)
-        - [Internal and External Range Liquidities](ICT-Book/chapter3/#internal-and-external-range-liquidities)
-        - [ICT Dealing Range](ICT-Book/chapter3/#ict-dealing-range)
-        - [Internal Range Liquidity](ICT-Book/chapter3/#internal-range-liquidity)
-        - [External Range Liquidity](ICT-Book/chapter3/#external-range-liquidity)
-        - [Liquidity Pool](ICT-Book/chapter3/#liquidity-pool)
-        - [Liquidity Void](ICT-Book/chapter3/#liquidity-void)
-        - [Liquidity Run](ICT-Book/chapter3/#liquidity-run)
+    - [High and Low Resistance Liquidities](ICT-Book/chapter3/#high-and-low-resistance-liquidities)
+    - [Internal and External Range Liquidities](ICT-Book/chapter3/#internal-and-external-range-liquidities)
+    - [ICT Dealing Range](ICT-Book/chapter3/#ict-dealing-range)
+    - [Internal Range Liquidity](ICT-Book/chapter3/#internal-range-liquidity)
+    - [External Range Liquidity](ICT-Book/chapter3/#external-range-liquidity)
+    - [Liquidity Pool](ICT-Book/chapter3/#liquidity-pool)
+    - [Liquidity Void](ICT-Book/chapter3/#liquidity-void)
+    - [Liquidity Run](ICT-Book/chapter3/#liquidity-run)
 
 ---
 
