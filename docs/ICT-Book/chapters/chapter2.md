@@ -31,20 +31,20 @@ PD-Array stands for *Premium Discount Arrangement*
             - It flipped into a breaker zone
     - You enter at the direction the **BB** was created
 - ### Inverse FVG
-    - Inverse FVG is when a displacement happens, and when the FVG fails to hold the price, and price revisits the FVG
+    - Inverse FVG is when a displacement happens, the FVG fails to hold the price momemtum, and price revisits the FVG
     - ![alt text](../images/image-3.png)
 - ### Implied FVG
-    - Happens when price moves so fast that it skipped levels, but did it all within one candle, it's an invisible area
+    - Happens when price moves so fast that it skipped levels, but did it all within one candle, it's an invisible area, a hidden FVG
         - *if you were to take that single displacement candle, and split it in half, you could see an FVG being formed*
     - A typically FVG consist of 3 candles:
         1. impulse candle
         2. inefficiency candle
         3. continuation candle
-            *in an inverse fair value gap, it is all one single candle. The chart won't show the inefficiency, but exists inside of that candle
+            - *in an inverse fair value gap, it is all one single candle. The chart won't show the inefficiency, but it exists within that candle*
     - Large candles by default are **NEVER** efficient, even when no FVG is present
         - Displacement candle is the middle candle of the FVG
-    - In a regular FVG you would get candle A, B, and C, with C being the displacement candle, leaving a gap/inefficiency behind
-    - IFVG happens because algo push prices so fast
+    - In a regular FVG you would see candle A, B, and C. With B being the displacement candle, leaving a gap/inefficiency behind
+    - IFVG happens because Smart Money push prices so fast
     - How to mark it
         - Bullish IFVG zone = from open of displacement candle → to its 50% midpoint
         - Bullish IFVG zone = open → midpoint (in bearish direction)
@@ -95,3 +95,12 @@ PD-Array stands for *Premium Discount Arrangement*
     - ![alt text](../images/image-15.png)
     - ![alt text](../images/image-16.png)
     - ![alt text](../images/image-17.png)
+
+
+---
+
+<!-- EDITOR HOOK -->
+<div id="page-editor"
+     data-file-path="_docs/ICT-Book/chapter2.md">
+</div>
+<script src="/assets/js/page-editor.js"></script>
