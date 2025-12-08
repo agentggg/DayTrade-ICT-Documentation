@@ -36,6 +36,7 @@ title: DayTrade ICT
     - [Rejection Block](ICT-Book/chapter2/#rejection-block)
     - [Vacuum Gap](ICT-Book/chapter2/#vaccume-gap)
     - [Mitigation Block](ICT-Book/chapter2/#mitigation-block)
+    - [Anchor Fair Value Gap](ICT-Book/chapter2/#anchor-FVG)
 
 #### **Chapter 3 — Liquidity Zones**
 - [Read Chapter 3](ICT-Book/chapter3/#institutional-liquidity-zones)

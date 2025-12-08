@@ -73,6 +73,7 @@ permalink: /ICT-Book/chapter1/
                             - You can use the Volume Range Volume Profile for dynamic volume range, to see where there was a gap in the orders, esp with FVG's
         5. Price always returns to FVG because of why/how FVG's are formed
             - FVG's are formed because of inbalances
+                - FVG's act as support in resistance, until price revists and fill the orders
                 - FVG's are formed because orders did not match: 
                     - Not enough buy orders per sale orders, vice-versa
                         - Every buy order must match a sale, vice-versa. So if there is not an available sell at the buy order request, it must go to the next avail sell order.

@@ -13,7 +13,6 @@ PD-Array stands for *Premium Discount Arrangement*
 ## Different type of PD-Arrays
 - ### Order Blocks
     - **Bullish Order Block:** occurs when a *bullish* candle body (not wick) engulfs a *bearish* candle before a displacement (FVG).
-    ![alt text](../images/image.png)
         - * displacement is the confirmation, but the entry point would be a retracel back to the order block. A single displacement candle can be retail FOMO. FVG is institution intentionally pushing price  *
     - **Bearish Order Block:** occurs when a *bearish* candle body (not wick) engulfs a *bullish* candle before a displacement (FVG).
         - ![alt text](../images/image-1.png)
@@ -30,6 +29,14 @@ PD-Array stands for *Premium Discount Arrangement*
             - It got invalidated
             - It flipped into a breaker zone
     - You enter at the direction the **BB** was created
+    - How to identify:
+        - **Bearish Breaker Block:** If price closes below the low of a bullish order block, the OB has failed, it is now a BB
+            - ![alt text](../images/image-29.png)
+            - ![alt text](../images/image-32.png)
+        - **Bullish Breaker Block:** If price closes above the high of a bearish order block, the OB has failed, it is now a BB
+            - ![alt text](../images/image-30.png)
+            - ![alt text](../images/image-31.png)
+    
 - ### Inverse FVG
     - Inverse FVG is when a displacement happens, the FVG fails to hold the price momemtum, and price revisits the FVG
     - ![alt text](../images/image-3.png)
@@ -52,6 +59,13 @@ PD-Array stands for *Premium Discount Arrangement*
     - ![alt text](../images/image-2.png)
     - ![alt text](../images/image-4.png)
     - ![alt text](../images/image-5.png)
+- ### Anchor FVG
+    - ICT recommends looking at a higher timeframe, and seeing if there is an FVG, mainly the 4 hour timeframe. If there is an FVH at the 4 hour timeframe, you can use that as a foundation reference point for a traders market and bias anaylsis
+        1. HTF (Higher TimeFrame) - 4 hour timeframe, preferably
+        2. Bias Confirmation - Trade in the direction of the FVG
+    - A good way to see it is a HTF that you **ANCHOR** your directional bias to, and you maintain that bias until FVG is filled
+    - ![alt text](../images/image-27.png) - Four hour window start of AFVG is white vertical line, and yellow is when the AFVG has been filled
+    - ![alt text](images/image-28.png) - 5 minute fractal window is the start of AFVG is white vertical line, and yellow is when the AFVG has been filled. You can see how the market was on an uptrend, till it started filling the inbalance. The moment the inbalance is filled, there is a MSS
 - ### Balanced Price Range-BPR
     - This is the same as inversion FVG.
     - IFVG is the method and Balanced Price Range is the result.

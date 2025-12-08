@@ -21,6 +21,42 @@
       - [ ] Enter opposite direction of the original FVG that got violated
           - Confirmation that Smart Money wanted to grab S/L above the liquidity and then reversing the opposite direction
       - [ ] Retracement will also work
+  span>
+      - [ ] FVG must form after a liqudity sweep, or real displacement
+      - [ ] Break of a swing structure, Momentum shift
+      - [ ] The FVG MUST be violated
+      - [ ] The IFVG must close beyone the FVG close point
+        - If the FVG exists randomly in the middle of consolidation, ignore it.
+        - Should not happen directly after an FVG was formed, that is a false move, as FVG should lead to MSS
+        - MSS happens when price takes out a swing in the OPPOSITE direction
+        - Price breaks a bullish swing low
+      - [ ] Price must retrace back into the original FVG direction into the IFVG zone
+    - <span style="color:gold">**Catch IFVG Reversal**</span>
+      - [ ] Sweep any major liqudity
+      - [ ] Look for an IFVG to the FVG that swept liqudity
+        - [ ] Stop loss gors at the swing high/swing low that swept liqudity and then put your stop loss at next liquidity level
+      - [ ] 1m or 5m timeframe
+    - <span style="color:gold">**Entry Signal**</span>
+      - [ ] Clean invesion off of the liquidity sweep, strong displacement through IFVG 
+      - [ ] Enter opposite direction of the original FVG that got violated
+          - Confirmation that Smart Money wanted to grab S/L above the liquidity and then reversing the opposite direction
+      - [ ] Retracement will also work
+  - <span style="color:gold">**Breaker Block**</span>
+    - More info: 
+      - [Breaker Blocks](ICT-Book/chapter2/#breaker-blocks) 
+    - Strategy:
+      - [ ] Look for an OB to be violated
+      - [ ] Once the price closes with correct OB violation
+        - [ ] Bearish OB, looks for price to close below the low of the OB
+        - [ ] Bullish OB, looks for price to close above the high of the OB
+      - [ ] Look for price to retest the bearish breaker block, then enter
+        - [ ] If bearish breaker block, place S/L above the high of the breaker block
+          - ![alt text](image.png)
+        - [ ] If bullish breaker block, place the S/L above the high of the breaker block
+          - [ ] ![alt text](image-1.png)
+    - Timeframe
+      - If breaker block is being used for daily bias, use it on daily timeframe
+      - If breaker block is being used as an ICT PD-ARRAY to execute trade, you should use it for lower timeframe of 15min or 5min
   - <span style="color:gold">**Opening Range Break**</span> - <u>*casper*</u>
     - Catch expanding markets
     - [ ] First 15-minute candle high and low
