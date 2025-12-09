@@ -1,16 +1,22 @@
 # Strategy
 
-- ## How to calculate Daily Bias:
-  1. Where is the nearest liquidity
-    -	Yesterday’s High
-    -	Yesterday’s Low
-    -	A Fair Value Gap
-    -	An Order Block
-    -	A Rebalance (BPR)
-    -	A liquidity pool in HTF (4H, Daily)
-  2. Check the Market Structure
-    - This should confirm step 1
-  3. Look for a displacement
+- ## Daily Bias
+  - ### What is the Daily Bias:
+    - ICT Daily Bias is the anticipated direction of where the market will go for the day
+  - ### How to calculate Daily Bias:
+    1. Look at the daily chart
+      - If MSS has shifted to buy-side, then it indicates a bullish bias
+      
+    1. Where is the nearest liquidity
+      -	Yesterday’s High
+      -	Yesterday’s Low
+      -	A Fair Value Gap
+      -	An Order Block
+      -	A Rebalance (BPR)
+      -	A liquidity pool in HTF (4H, Daily)
+    2. Check the Market Structure
+      - This should confirm step 1
+    3. Look for a displacement
     - 
 - ## ICT Strategies
   - <span style="color:gold">**Rebalancing IFVG Model**</span>
@@ -48,11 +54,18 @@
       - If breaker block is being used for daily bias, use it on daily timeframe
       - If breaker block is being used as an ICT PD-ARRAY to execute trade, you should use it for lower timeframe of 15min or 5min
   - <span style="color:gold">**Implied Fair Value Gap**</span>
-      - [ ] HTF
-      - [ ] Wait for a liquidity grab
+    - More info:
+      - [Implied FVG](ICT-Book/chapter2/#implied-fvg)
+    - Strategy:
+      - [ ] Identify the market trend by using any of ICT PD-ARRAYS
+      - [ ] Identify a market structure shift
+      - [ ] Identify the Implied FVG, while leveraging the FIB tool
       - [ ] MSS
       - [ ] IFVG
-      - [ ] Once price taps back into IFVG, go for long
+      - [ ] Once price taps back into Implied FVG for a reblance, then enter the opposite way of the rebalance
+        - ![alt text](image-2.png)
+    - Timeframe:
+        - Any
   - <span style="color:gold">**Rejection Block**</span>
       *[Sample 1](https://youtube.com/shorts/BvezXyLmieg?si=8ULSy5BFi81ONn6i)*
       *[Sample 2](https://youtube.com/shorts/l5OIy2n9BQ0?si=0zaIvA9bu1eafsdK)*

@@ -51,14 +51,17 @@ PD-Array stands for *Premium Discount Arrangement*
     - Large candles by default are **NEVER** efficient, even when no FVG is present
         - Displacement candle is the middle candle of the FVG
     - In a regular FVG you would see candle A, B, and C. With B being the displacement candle, leaving a gap/inefficiency behind
-    - IFVG happens because Smart Money push prices so fast
+    - Implied FVG happens because Smart Money push prices so fast
     - How to mark it
-        - Bullish IFVG zone = from open of displacement candle → to its 50% midpoint
-        - Bullish IFVG zone = open → midpoint (in bearish direction)
+        - Bullish Implied FVG zone = from open of displacement candle → to its 50% midpoint
+        - Bullish Implied FVG zone = open → midpoint (in bearish direction)
     - Place the FIB at the wicks that overlap, and the 50% mark is the IFVG
     - ![alt text](../images/image-2.png)
     - ![alt text](../images/image-4.png)
     - ![alt text](../images/image-5.png)
+    - How to identify:
+        - Large displacement candle, with the preceeding and proceeding candle wick overlapping each other within the large displacement candle.
+        - Use the fib tool as mentioned above, and identify the 50% zone, and this is where the Implied FVG is
 - ### Anchor FVG
     - ICT recommends looking at a higher timeframe, and seeing if there is an FVG, mainly the 4 hour timeframe. If there is an FVH at the 4 hour timeframe, you can use that as a foundation reference point for a traders market and bias anaylsis
         1. HTF (Higher TimeFrame) - 4 hour timeframe, preferably
