@@ -1,47 +1,37 @@
 # Strategy
 
+- ## How to calculate Daily Bias:
+  1. Where is the nearest liquidity
+    -	Yesterday’s High
+    -	Yesterday’s Low
+    -	A Fair Value Gap
+    -	An Order Block
+    -	A Rebalance (BPR)
+    -	A liquidity pool in HTF (4H, Daily)
+  2. Check the Market Structure
+    - This should confirm step 1
+  3. Look for a displacement
+    - 
 - ## ICT Strategies
-  - <span style="color:gold">**Rebalancing IFVG Strategy**</span>
+  - <span style="color:gold">**Rebalancing IFVG Model**</span>
+    - More info: 
+      - [Rebalancing IFVG](ICT-Book/chapter2/#inverse-fvg) 
+    - Strategy:
       - [ ] FVG must form after a liqudity sweep, or real displacement
+        - *Clean invesion off of the liquidity sweep, strong displacement through IFVG*
+        - *Confirmation that Smart Money wanted to grab S/L beyond the liquidity and then reverse into the opposite direction*
       - [ ] Break of a swing structure, Momentum shift
       - [ ] The FVG MUST be violated
       - [ ] The IFVG must close beyone the FVG close point
         - If the FVG exists randomly in the middle of consolidation, ignore it.
         - Should not happen directly after an FVG was formed, that is a false move, as FVG should lead to MSS
         - MSS happens when price takes out a swing in the OPPOSITE direction
-        - Price breaks a bullish swing low
+        - Price breaks a bullish swing low, or a bearish swing high
       - [ ] Price must retrace back into the original FVG direction into the IFVG zone
-    - <span style="color:gold">**Catch IFVG Reversal**</span>
-      - [ ] Sweep any major liqudity
-      - [ ] Look for an IFVG to the FVG that swept liqudity
-        - [ ] Stop loss gors at the swing high/swing low that swept liqudity and then put your stop loss at next liquidity level
+      - [ ] Stop loss gors at the swing high/swing low that swept liqudity and then put your stop loss at next liquidity level
+    - Timeframe:
       - [ ] 1m or 5m timeframe
-    - <span style="color:gold">**Entry Signal**</span>
-      - [ ] Clean invesion off of the liquidity sweep, strong displacement through IFVG 
-      - [ ] Enter opposite direction of the original FVG that got violated
-          - Confirmation that Smart Money wanted to grab S/L above the liquidity and then reversing the opposite direction
-      - [ ] Retracement will also work
-  span>
-      - [ ] FVG must form after a liqudity sweep, or real displacement
-      - [ ] Break of a swing structure, Momentum shift
-      - [ ] The FVG MUST be violated
-      - [ ] The IFVG must close beyone the FVG close point
-        - If the FVG exists randomly in the middle of consolidation, ignore it.
-        - Should not happen directly after an FVG was formed, that is a false move, as FVG should lead to MSS
-        - MSS happens when price takes out a swing in the OPPOSITE direction
-        - Price breaks a bullish swing low
-      - [ ] Price must retrace back into the original FVG direction into the IFVG zone
-    - <span style="color:gold">**Catch IFVG Reversal**</span>
-      - [ ] Sweep any major liqudity
-      - [ ] Look for an IFVG to the FVG that swept liqudity
-        - [ ] Stop loss gors at the swing high/swing low that swept liqudity and then put your stop loss at next liquidity level
-      - [ ] 1m or 5m timeframe
-    - <span style="color:gold">**Entry Signal**</span>
-      - [ ] Clean invesion off of the liquidity sweep, strong displacement through IFVG 
-      - [ ] Enter opposite direction of the original FVG that got violated
-          - Confirmation that Smart Money wanted to grab S/L above the liquidity and then reversing the opposite direction
-      - [ ] Retracement will also work
-  - <span style="color:gold">**Breaker Block**</span>
+  - <span style="color:gold">**The ICT Breaker Model**</span>
     - More info: 
       - [Breaker Blocks](ICT-Book/chapter2/#breaker-blocks) 
     - Strategy:
@@ -57,33 +47,6 @@
     - Timeframe
       - If breaker block is being used for daily bias, use it on daily timeframe
       - If breaker block is being used as an ICT PD-ARRAY to execute trade, you should use it for lower timeframe of 15min or 5min
-  - <span style="color:gold">**Opening Range Break**</span> - <u>*casper*</u>
-    - Catch expanding markets
-    - [ ] First 15-minute candle high and low
-    - [ ] Drop down to lower time frame
-    - [ ] Wait for clear displacement through the range
-        - Big strong aggresive candle that closes through the range 
-            - FVG
-    - [ ] You can come in when candle close, or retest
-    - [ ] Stop loss goes at the candle that caused the displacement
-        - Don't want to see price come back up to the range
-        - 2:1 RR
-    - <span style="color:gold">**Entry Signal**</span>
-        - [ ] You can do in 5, 15, or 30 minute candle
-        - [ ] Mark the high and low with 15 min candle
-        - [ ] Go to 5 min time frame
-        - [ ] Breaks range with strong displacement
-        - [ ] S/L on the candle low that caused the displacement
-        - [ ] DISPLACEMENT IS A MUST
-        - [ ] Some people wait for retest, some don't. Just manage your emotions
-  - <span style="color:gold">**The ICT Breaker Model**</span>
-      - [ ] OB forms
-      - [ ] Displacement forms (with FVG)
-      - [ ] Retrace into the OB
-      - [ ] OB FAILS (price trades THROUGH it)
-      - [ ] Displacement in the opposite direction
-      - [ ] The FAILED OB becomes the Breaker Block
-      - [ ] Retrace to the Breaker → ENTRY
   - <span style="color:gold">**Implied Fair Value Gap**</span>
       - [ ] HTF
       - [ ] Wait for a liquidity grab
@@ -133,6 +96,7 @@
       - Stop/Loss:
         1. Recommended: Stops loss can go under the engulfing candle that formed the OB
         2. Tighter R:R It can also go under the candle that formed the displacement 
+
 - ## Hints/Tips:
   - <span style="color:green">**Timeframe**</span>
     - Day Trading: Focus on 1H down to 5M
@@ -147,3 +111,18 @@
     - [ ] Max trade per session, then walk away
       - You should not take more than X amount of trades per day
     - [ ] Only trade your setup and nothing else
+
+
+
+- ## Non-ICT Strategies
+  - <span style="color:gold">**Opening Range Break**</span> - <u>*casper*</u>
+    - Catch expanding markets
+    - [ ] First 15-minute candle high and low
+    - [ ] Drop down to lower time frame
+    - [ ] Wait for clear displacement through the range
+        - Big strong aggresive candle that closes through the range 
+            - FVG
+    - [ ] You can come in when candle close, or retest
+    - [ ] Stop loss goes at the candle that caused the displacement
+        - Don't want to see price come back up to the range
+        - 2:1 RR
