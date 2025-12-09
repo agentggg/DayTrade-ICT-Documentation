@@ -58,6 +58,9 @@ title: DayTrade ICT
     - [Liquidity Void](ICT-Book/chapter3/#liquidity-void)
     - [Liquidity Run](ICT-Book/chapter3/#liquidity-run)
 
+
+#### **Chapter 4 — Market Profile**
+- [Read Chapter 4](ICT-Book/chapter4/#market-profile)
 ---
 
 ### ICT — DayTrade Development Course

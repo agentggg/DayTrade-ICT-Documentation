@@ -1,12 +1,30 @@
 # Strategy
 
 - ## Daily Bias
+  - ### What is the Weekly Bias:
+    - *ICT Daily Bias is the anticipated direction of where the market will go for the day*
   - ### What is the Daily Bias:
-    - ICT Daily Bias is the anticipated direction of where the market will go for the day
+    - *ICT Daily Bias is the anticipated direction of where the market will go for the day*
+    - **Daily timeframe order flow** Banks and Institutional traders mostly utilize the daily chart to execute their orders
+    - **Any imblanace to rebalance** As you know price moves for two reasons and one of that is to balance the imbalance.
+    - **Draw on Liquidity** Hunt liquidity
+    - **Order Flow** Is the structure of price movement
+      - Price moves up to take liquidity or balance the imbalance in price
+        - Bullish Order Flow: Price makes higher highs
+          - ![alt text](image-3.png)
+        - Bearish Order Flow: Price makes lower lows 
+            - ![alt text](image-4.png)
   - ### How to calculate Daily Bias:
     1. Look at the daily chart
-      - If MSS has shifted to buy-side, then it indicates a bullish bias
-      
+    2. Look for the order flow
+    3. Mark point of intrest
+      - order block 
+      - breaker block
+      - fair value gap
+      - unicorn
+    4. 
+    
+
     1. Where is the nearest liquidity
       -	Yesterday’s High
       -	Yesterday’s Low
